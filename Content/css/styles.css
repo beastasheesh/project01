@@ -1,0 +1,44 @@
+body{
+  font-family: "Helvetica Neue", sans-serif;
+  background-color: orange;
+}
+
+#headerContent{
+  background-color: white;
+  height: 40px;
+  width: 100%;
+  display: inline-block;
+}
+
+#mainHeading{
+  float: left;
+  width: 45%;
+  margin-left: 20px;
+  margin-top: -10px;
+}
+
+#logoImage img{
+  padding-top: 3px;
+  width: 35px;
+}
+
+#mainList{
+  float: right;
+  margin-top: -50px;
+}
+
+#headerContent li{
+  float: right;
+  list-style-type: none;
+  margin: 10px 10px 10px 10px;
+}
+
+.content h1{
+  width: 100%;
+  text-align: center;
+  color: red;
+}
+
+@media screen and (max-width: 768px){
+
+}
