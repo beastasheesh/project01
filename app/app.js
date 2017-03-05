@@ -1,5 +1,5 @@
-var myApp = angular.module('myBrewry', []);
+var myApp = angular.module('myBrewery', []);
 
 myApp.controller('MainController', ['$scope', function($scope){
-  
+
 }]);
